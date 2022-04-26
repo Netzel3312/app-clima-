@@ -1,1 +1,1 @@
-# app-clima-
+# una app de clima sencilla, puedes buscar la ciudad o pais que quieras. si buscas pais saldra el clima de la capital del mismo, si buscas ciudad, saldra el de esa ciudad, prueba con chile o con estados unidos ;)
